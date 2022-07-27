@@ -14,5 +14,5 @@ Project is created with:
 * As the Dijkstra algo only works for the non-negative weighted edges, in the case of finding the cheapest route, every instance of negative effective cost ( cost - discount ) was taken to be 0 EUR.
 * If the source and destination are not chosen differently or either of them is empty, the page shows the user some error. By default, the route to be shown is set to be the fastest one.
 
-The site has been deployed on Netlify : https://travel-app-ks.netlify.app/
+The site has been deployed on Netlify : https://travel-app-sachi.netlify.app/
 And it's backend on Heroku : https://back-travel-app.herokuapp.com/
